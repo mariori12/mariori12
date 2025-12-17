@@ -1,4 +1,4 @@
-## Hi there 👋
+3D Visualization of Commit History
 
 <!--
 **mariori12/mariori12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
